@@ -147,17 +147,6 @@ Crear job `spotify-deduplication` con:
 | `release_date` | date | Fecha de lanzamiento |
 
 
-## 💰 Costos Estimados (Mensual)
-
-| Servicio | Uso Típico | Costo Estimado |
-|----------|------------|----------------|
-| **S3** | 1GB almacenamiento | $0.02 |
-| **Glue Crawlers** | 4 ejecuciones/mes | $1.00 |
-| **Glue ETL Jobs** | 2 horas/mes | $0.88 |
-| **QuickSight** | 1 usuario Standard | $9.00 |
-| **SPICE** | 1GB datos | $0.25 |
-| **Total** | | **~$16.15/mes** |
-
 ## 🔄 Programación y Automatización
 
 ### Flujo Semanal Automatizado
